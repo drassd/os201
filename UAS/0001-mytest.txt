@@ -1,4 +1,4 @@
-Script started, file is 00001-mytest.txt
+Script started on Sun 07 Jun 2020 05:06:03 PM WIB
 drasseta.aliyyu@badak:~$ PS1="$ "
 $ echo $GitHubUser
 drassd
@@ -18,4 +18,5 @@ sub   2048R/C63A7857 2020-06-07
 
 200607-170748-9533-drasseta.aliyyu/> exit
 exit
-Script done, file is 00001-mytest.txt
+
+Script done on Sun 07 Jun 2020 05:08:00 PM WIB
