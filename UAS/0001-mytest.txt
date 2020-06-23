@@ -5,7 +5,7 @@ drassd
 $ echo $PSTAMP
 TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
 $ eval $PSTAMP
-200608-050214-37b3-drasseta.aliyyu/>
+200608-050214-37b3-drasseta.aliyyu/> 
 $ PS1="\$(eval \$PSTAMP)"
 200608-050223-59ed-drasseta.aliyyu/> date
 Mon Jun  8 05:02:29 WIB 2020

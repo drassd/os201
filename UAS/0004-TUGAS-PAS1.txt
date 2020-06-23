@@ -1,36 +1,34 @@
-Script started on Tue 09 Jun 2020 01:44:34 PM WIB
-drasseta.aliyyu@badak:~$ PS1="$ "
-$ echo $GitHubUser
+Script started on Tue 23 Jun 2020 01:49:59 PM WIB
+drasseta.aliyyu@badak:~$ exitcho -e $CEKSEBELA21[3PAYAPS1="\$(eval \$PSTAMP)"[11Peval $PSTAMPcho[C[C[C[C[C[C[C[CGitHubUser[8PPS1="$ "[4Pexitval $PSTAMPcho[C[C[C[C[C[C[C[CGitHubUser[8PPS1="$ "[4Pexitval #PSTAMPcho $PSTAMPGitHubUser[8PPS1="$ "[4Pexitcho $GitHubUser[8PPS1="$ "[3Pcd ..PS1="\$(eval \$PSTAMP)"cd ..[KPS1="$ "echo $GitHubUserxit[KPS1="$ "echo $GitHubUser[4PPSTAMPval #PSTAMPxit[KPS1="$ "echo $GitHubUser[4PPSTAMPval[C[C[C[C[C[C[C[Cxit[KPS1="$ "echo $GitHubUser[4PPSTAMPval[C[C[C[C[C[C[C[CPS1="\$(eval \$PSTAMP)"[7Pecho -e $CEKSAYAEBELA12xit[K[Kexitcho -e $CEKSEBELA21[3PAYAPS1="\$(eval \$PSTAMP)"[11Peval $PSTAMPcho[C[C[C[C[C[C[C[CGitHubUser[8PPS1="$ "[4Pexitval $PSTAMPcho[C[C[C[C[C[C[C[CGitHubUser[8PPS1="$ "[4Pexitval #PSTAMPcho $PSTAMPGitHubUser[8PPS1="$ "[4PexitPS1="$ "
+$ PS1="$ "[C[C[4Pexitcho -e $CEKSEBELA21[3PAYA[C[CPS1="\$(eval \$PSTAMP)"[C[C[11Peval $PSTAMP[C[C[Ccho[C[C[C[C[C[C[C[CGitHubUser[C[C[8PPS1="$ "[C[C[4Pexit[C[CPS1="$ "[C[Cecho $GitHubUser
 drassd
-$ echo $GitHubUser
-drassd
-$ echo $PSTAMP
+$ echo $GitHubUser[C[C[8PPS1="$ "[C[C[4Pexitcho -e $CEKSEBELA21[3PAYA[C[CPS1="\$(eval \$PSTAMP)"[C[C[11Peval $PSTAMP[C[C[Ccho[C[C[C[C[C[C[C[C
 TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
-$ eval $PSTAMP
-200609-134518-b725-drasseta.aliyyu/>
-$ PS1="\$(eval \$PSTAMP)"
-200609-134526-023d-drasseta.aliyyu/> echo -e $CEKSAYA
+$ echo $PSTAMPGitHubUser[C[C[8PPS1="$ "[C[C[4Pexitcho -e $CEKSEBELA21[3PAYA[C[CPS1="\$(eval \$PSTAMP)"[C[C[11Peval $PSTAMP[C[C[Ccho[C[C[C[C[C[C[C[C[C[C[Cval[C[C[C[C[C[C[C[C
+200623-135025-b89b-drasseta.aliyyu/> 
+$ eval $PSTAMP[C[C[Ccho[C[C[C[C[C[C[C[CGitHubUser[C[C[8PPS1="$ "[C[C[4Pexitcho -e $CEKSEBELA21[3PAYA[C[CPS1="\$(eval \$PSTAMP)"[C[C[11Peval $PSTAMP[C[CPS1="\$(eval \$PSTAMP)"
+200623-135029-e0e4-drasseta.aliyyu/> PS1="\$(eval \$PSTAMP)"[11Peval $PSTAMPcho[C[C[C[C[C[C[C[CGitHubUser[8PPS1="$ "[4PexitPS1="$ "echo $GitHubUser[4PPSTAMPval[C[C[C[C[C[C[C[CPS1="\$(eval \$PSTAMP)"[KPS1="\$(eval \$PSTAMP)"[11Peval $PSTAMPcho[C[C[C[C[C[C[C[CGitHubUser[8PPS1="$ "[4Pexitcho -e $CEKSEBELA21[3PAYAPS1="\$(eval \$PSTAMP)"[7Pecho -e $CEKSAYA
 drassd ZCZCSCRIPTSTART 200608-050144 drassd
- drassd drassd 200608-050214-37b3-drasseta.aliyyu/ 200608-050214 SEQOK SUMOK 37b3502d
- drassd drassd 200608-050223-59ed-drasseta.aliyyu/ 200608-050223 SEQOK SUMOK 59ede625
- drassd drassd 200608-050229-fcb5-drasseta.aliyyu/ 200608-050229 SEQOK SUMOK fcb5cde8
- drassd drassd 200608-050233-3707-drasseta.aliyyu/ 200608-050233 SEQOK SUMOK 37078676
- drassd ZCZCSCRIPTSTOP 200608-050244 SEQOK
-200609-134532-11b6-drasseta.aliyyu/> echo -e $CEKSEBELA1
+drassd drassd 200608-050214-37b3-drasseta.aliyyu/ 200608-050214 SEQOK SUMOK 37b3502d
+drassd drassd 200608-050223-59ed-drasseta.aliyyu/ 200608-050223 SEQOK SUMOK 59ede625
+drassd drassd 200608-050229-fcb5-drasseta.aliyyu/ 200608-050229 SEQOK SUMOK fcb5cde8
+drassd drassd 200608-050233-3707-drasseta.aliyyu/ 200608-050233 SEQOK SUMOK 37078676
+drassd ZCZCSCRIPTSTOP 200608-050244 SEQOK
+200623-135038-0860-drasseta.aliyyu/> echo -e $CEKSAYAPS1="\$(eval \$PSTAMP)"[11Peval $PSTAMPcho[C[C[C[C[C[C[C[CGitHubUser[8PPS1="$ "[4Pexitcho -e $CEKSEBELA21
 drassd ZCZCSCRIPTSTART 200531-230816 eaglescommander
- drassd eaglescommander 200531-230853-ae01-nadhif.adyatma/ 200531-230835 SEQOK SUMOK ae013b24
- drassd eaglescommander 200531-230839-f947-nadhif.adyatma/ 200531-230839 SEQOK SUMOK f947a2f2
- drassd eaglescommander 200531-230844-8330-nadhif.adyatma/ 200531-230844 SEQOK SUMOK 83303d31
- drassd eaglescommander 200531-230853-c65b-nadhif.adyatma/ 200531-230853 SEQOK SUMOK c65bb922
- drassd ZCZCSCRIPTSTOP 200531-230901 SEQOK
-200609-134537-979c-drasseta.aliyyu/> echo -e $CEKSEBELA2
+drassd eaglescommander 200531-230835-ae01-nadhif.adyatma/ 200531-230835 SEQOK SUMOK ae013b24
+drassd eaglescommander 200531-230839-f947-nadhif.adyatma/ 200531-230839 SEQOK SUMOK f947a2f2
+drassd eaglescommander 200531-230844-8330-nadhif.adyatma/ 200531-230844 SEQOK SUMOK 83303d31
+drassd eaglescommander 200531-230853-c65b-nadhif.adyatma/ 200531-230853 SEQOK SUMOK c65bb922
+drassd ZCZCSCRIPTSTOP 200531-230901 SEQOK
+200623-135041-af00-drasseta.aliyyu/> echo -e $CEKSEBELA1[3PAYAPS1="\$(eval \$PSTAMP)"[11Peval $PSTAMPcho[C[C[C[C[C[C[C[CGitHubUser[8PPS1="$ "[4Pexitcho -e $CEKSEBELA212
 drassd ZCZCSCRIPTSTART 200601-140135 egiffari
- drassd egiffari 200601-140216-fe13-giffari.faqih/ 200601-140216 SEQOK SUMOK fe1393ad
- drassd egiffari 200601-140224-4749-giffari.faqih/ 200601-140224 SEQOK SUMOK 474931da
- drassd egiffari 200601-140230-9e5d-giffari.faqih/ 200601-140230 SEQOK SUMOK 9e5d3202
- drassd egiffari 200601-140239-12e4-giffari.faqih/ 200601-140239 SEQOK SUMOK 12e4ee6e
- drassd ZCZCSCRIPTSTOP 200601-140308 SEQOK
-200609-134542-0729-drasseta.aliyyu/> exit
+drassd egiffari 200601-140216-fe13-giffari.faqih/ 200601-140216 SEQOK SUMOK fe1393ad
+drassd egiffari 200601-140224-4749-giffari.faqih/ 200601-140224 SEQOK SUMOK 474931da
+drassd egiffari 200601-140230-9e5d-giffari.faqih/ 200601-140230 SEQOK SUMOK 9e5d3202
+drassd egiffari 200601-140239-12e4-giffari.faqih/ 200601-140239 SEQOK SUMOK 12e4ee6e
+drassd ZCZCSCRIPTSTOP 200601-140308 SEQOK
+200623-135045-18eb-drasseta.aliyyu/> exit
 exit
 
-Script done on Tue 09 Jun 2020 01:45:45 PM WIB
+Script done on Tue 23 Jun 2020 01:50:47 PM WIB
